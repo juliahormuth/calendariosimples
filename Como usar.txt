@@ -1,0 +1,2 @@
+Nota:
+Como não utilizei JS, criei um botão que redireciona o usuário para a página do mês anterior ou posterior.
